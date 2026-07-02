@@ -1,13 +1,51 @@
-# 📊 Global Sales & Executive Command Center
+# 📊 Profitability & Product Tactical Deep-Dive
 
-![Executive Command Layout](exe.png)
-![Global Sales Overview](dashboard.png)
-![Geographic Market Analysis](map.png)
+![Product Profitability Dashboard](image%2022.png)
 
-### 🔹 Executive Summary
-A multi-page corporate tracking system designed to bridge the gap between high-level operational health and granular geographic performance. This dashboard demonstrates advanced multi-page workflow architecture, deploying cohesive corporate light modes and high-impact dark-themed command centers to serve diverse executive reporting preferences.
+## Project Overview
 
-### 🔹 Key Technical Features
-* **Unified Data Pipeline:** Seamlessly connects sales volume (178K units), net profit ($1M), and gross revenue ($13M) across distinct visual reporting layers.
-* **Geographic Mapping Footprint:** Implements interactive regional maps with dynamic bubble-size scaling to pinpoint underperforming or high-yield international markets at a glance.
-* **Operational Health Slicers:** Integrates deep-dive date filters and category breakdowns (Technology, Furniture, Office Supplies) allowing users to isolate supply-chain timelines instantly.
+This dashboard focuses on product profitability by analyzing revenue, profit margins, and category performance. It enables users to identify high-performing products and evaluate profitability across business segments.
+
+---
+
+## Business Objectives
+
+- Compare product profitability
+- Analyze profit margins
+- Identify high-performing categories
+- Monitor yearly trends
+
+---
+
+## Dashboard Highlights
+
+- Profitability analysis
+- Product ranking
+- Category comparison
+- Multi-year filtering
+- Interactive slicers
+
+---
+
+## Tools Used
+
+- Microsoft Power BI
+- Power Query
+- DAX
+- Excel
+
+---
+
+## Skills Demonstrated
+
+- Profitability Analysis
+- Data Visualization
+- KPI Reporting
+- Dashboard Design
+- Business Intelligence
+
+---
+
+## Business Value
+
+Helps managers understand which products contribute most to profitability, enabling better pricing, inventory, and product strategy decisions.
