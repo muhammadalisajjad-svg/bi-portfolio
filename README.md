@@ -43,6 +43,6 @@ Multi-page executive dashboard providing operational, financial, and geographic 
 
 **Email:** muhammadali.sajjad@gmail.com
 
-**LinkedIn:** (add link)
+**LinkedIn:** www.linkedin.com/in/mas-bi-da
 
 **GitHub:** https://github.com/muhammadalisajjad-svg
