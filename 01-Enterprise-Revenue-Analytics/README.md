@@ -1,3 +1,4 @@
+![Enterprise Revenue Dashboard](Messy%20data%20dashboard.png)
 # 📊 Enterprise Revenue Pipeline & Executive Insights
 
 ### 🔹 Executive Summary
