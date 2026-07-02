@@ -1,6 +1,6 @@
 # 📊 Profitability & Product Tactical Deep-Dive
 
-![Product Profitability Dashboard](image%2022.jpg)
+![Product Profitability Dashboard](image%2022.png)
 
 ### 🔹 Executive Summary
 A highly specialized, high-contrast tactical dashboard built specifically for product managers and inventory strategists. This report moves away from high-level summaries to focus entirely on product profitability, cost margins, and temporal trends across specific business segments.
