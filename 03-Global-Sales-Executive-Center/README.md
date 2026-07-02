@@ -1,7 +1,7 @@
 # 📊 Global Sales & Executive Command Center
 
 ![Executive Command Layout](exe.png)
-![Global Sales Overview](dashboard.pngg)
+![Global Sales Overview](dashboard.png)
 ![Geographic Market Analysis](map.png)
 
 ### 🔹 Executive Summary
