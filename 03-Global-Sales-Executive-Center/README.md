@@ -1,29 +1,45 @@
-# 📊 Profitability & Product Tactical Deep-Dive
+# 📊 Global Sales & Executive Command Center
 
-![Product Profitability Dashboard](image%2022.png)
+![Executive Command Layout](exe.png)
+
+![Global Sales Overview](dashboard.png)
+
+![Geographic Market Analysis](map.png)
 
 ## Project Overview
 
-This dashboard focuses on product profitability by analyzing revenue, profit margins, and category performance. It enables users to identify high-performing products and evaluate profitability across business segments.
+A multi-page executive dashboard designed to provide a comprehensive view of global sales performance. The dashboard combines financial KPIs, geographic analysis, and operational reporting into a single interactive reporting solution.
 
 ---
 
 ## Business Objectives
 
-- Compare product profitability
-- Analyze profit margins
-- Identify high-performing categories
-- Monitor yearly trends
+- Monitor global sales performance
+- Analyze regional markets
+- Evaluate category performance
+- Support executive reporting
 
 ---
 
 ## Dashboard Highlights
 
-- Profitability analysis
-- Product ranking
-- Category comparison
-- Multi-year filtering
-- Interactive slicers
+### Executive KPIs
+
+- Revenue: **$13M**
+- Profit: **$1M**
+- Sales Volume: **178K**
+
+### Geographic Analysis
+
+- Interactive sales maps
+- Regional comparison
+- Market performance
+
+### Operational Reporting
+
+- Category analysis
+- Date filtering
+- Multi-page navigation
 
 ---
 
@@ -38,14 +54,17 @@ This dashboard focuses on product profitability by analyzing revenue, profit mar
 
 ## Skills Demonstrated
 
-- Profitability Analysis
-- Data Visualization
-- KPI Reporting
-- Dashboard Design
+- Interactive Dashboard Design
+- Geographic Analysis
+- Executive Reporting
 - Business Intelligence
 
 ---
 
 ## Business Value
 
-Helps managers understand which products contribute most to profitability, enabling better pricing, inventory, and product strategy decisions.
+Supports executive decision-making by combining financial performance, geographic analysis, and operational reporting into a unified dashboard experience.
+
+## Dataset
+
+This project uses a sample sales dataset for educational and portfolio purposes. The dashboard demonstrates business intelligence techniques including data modeling, KPI reporting, interactive visualization, and analytical storytelling.
