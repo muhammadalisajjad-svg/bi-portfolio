@@ -2,10 +2,50 @@
 
 ![Product Profitability Dashboard](image%2022.png)
 
-### 🔹 Executive Summary
-A highly specialized, high-contrast tactical dashboard built specifically for product managers and inventory strategists. This report moves away from high-level summaries to focus entirely on product profitability, cost margins, and temporal trends across specific business segments.
+## Project Overview
 
-### 🔹 Key Technical Features
-* **Granular Sub-Category Benchmarking:** Features optimized, sorted horizontal bar charts to instantly highlight top-profit items (e.g., Copiers, Phones) versus low-margin lines.
-* **High-Impact Data Layout:** Uses a dark neon UI design optimized for quick scanning of variance data during performance reviews.
-* **Multi-Year Slicers:** Integrates multi-select year matrices allowing users to track long-term product lifecycle shifts and historical performance patterns.
+This dashboard focuses on product profitability by analyzing revenue, profit margins, and category performance. It enables users to identify high-performing products and evaluate profitability across business segments.
+
+---
+
+## Business Objectives
+
+- Compare product profitability
+- Analyze profit margins
+- Identify high-performing categories
+- Monitor yearly trends
+
+---
+
+## Dashboard Highlights
+
+- Profitability analysis
+- Product ranking
+- Category comparison
+- Multi-year filtering
+- Interactive slicers
+
+---
+
+## Tools Used
+
+- Microsoft Power BI
+- Power Query
+- DAX
+- Excel
+
+---
+
+## Skills Demonstrated
+
+- Profitability Analysis
+- Data Visualization
+- KPI Reporting
+- Dashboard Design
+- Business Intelligence
+
+---
+
+## Business Value
+
+Helps managers understand which products contribute most to profitability, enabling better pricing, inventory, and product strategy decisions.
