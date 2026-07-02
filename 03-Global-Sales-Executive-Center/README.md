@@ -1,8 +1,8 @@
 # 📊 Global Sales & Executive Command Center
 
 ![Executive Command Layout](exe.png)
-![Global Sales Overview](dashboard.jpg)
-![Geographic Market Analysis](map.jpg)
+![Global Sales Overview](dashboard.pngg)
+![Geographic Market Analysis](map.png)
 
 ### 🔹 Executive Summary
 A multi-page corporate tracking system designed to bridge the gap between high-level operational health and granular geographic performance. This dashboard demonstrates advanced multi-page workflow architecture, deploying cohesive corporate light modes and high-impact dark-themed command centers to serve diverse executive reporting preferences.
