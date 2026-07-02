@@ -49,3 +49,8 @@ This dashboard focuses on product profitability by analyzing revenue, profit mar
 ## Business Value
 
 Helps managers understand which products contribute most to profitability, enabling better pricing, inventory, and product strategy decisions.
+
+
+## Dataset
+
+This project uses a sample sales dataset for educational and portfolio purposes. The dashboard demonstrates business intelligence techniques including data modeling, KPI reporting, interactive visualization, and analytical storytelling.
