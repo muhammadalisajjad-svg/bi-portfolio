@@ -67,3 +67,7 @@ This Power BI dashboard analyzes enterprise sales performance by transforming ra
 ## Business Value
 
 Provides executives with a centralized view of business performance, helping identify growth opportunities, monitor sales trends, and evaluate regional and product performance.
+
+## Dataset
+
+This project uses a sample sales dataset for educational and portfolio purposes. The dashboard demonstrates business intelligence techniques including data modeling, KPI reporting, interactive visualization, and analytical storytelling.
